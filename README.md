@@ -22,7 +22,7 @@
 6. **Конец**
 
 ### Блок-схема
-![Блок-схема](lab_area.png)
+![Блок-схема](https://github.com/reso1utik/dzlab7.1/blob/main/dzlab6.1.png)
 
 ## 2. Реализация программы
 
